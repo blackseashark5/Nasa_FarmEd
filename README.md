@@ -95,7 +95,7 @@ This README documents the content and feature expectations for a NASA Space Apps
 
 ## Per-Subchapter: Intro + NASA Resources
 For every subchapter the UI should display:
-- A short intro (1–2 sentences) using the subchapter's description.  
+- A short intro using the subchapter's description.  
 - 2–3 curated NASA resources / datasets / tutorials as “Explore / Tutorial” cards. (Suggested resources include NASA Harvest, NASA Earthdata (SMAP, MODIS, Landsat), Veggie ISS documentation, Space Apps dataset library, and Landsat/Crop monitoring pages.)  
 - Buttons: **Explore Resources** | **Start Quiz** | **Practice**.
 
@@ -182,7 +182,7 @@ Each seeded question includes:
 
 ## Credits & License
 - **Content & Seed:** Prepared for a NASA Space Apps Challenge quiz concept.  
-- **Suggested License:** MIT (or choose your preferred license).  
+- **Suggested License:** MIT.  
 - **Acknowledgements:** NASA datasets and documentation are suggested sources for resource cards and further reading.
 
 ---
