@@ -9,10 +9,9 @@
 ## Live Demo & Demo Video (placeholders)
 - **Live deployment:** `https://nasa-quiz.example.com`  
 - **Demo video (walkthrough):** https://youtu.be/3k2AwQ5LTTY?si=Zekmf5hBSpJGudp9
-- **PPT (walkthrough):** `https://docs.google.com/presentation/d/1D0Nx2POktJcJ4BMBToX07pIk6HRFYoiA/edit?usp=sharing&ouid=102064278748619032468&rtpof=true&sd=true`
+- **PPT (walkthrough):** https://docs.google.com/presentation/d/1D0Nx2POktJcJ4BMBToX07pIk6HRFYoiA/edit?usp=sharing&ouid=102064278748619032468&rtpof=true&sd=true
 - **Download App:** `https://youtu.be/DEMO_VIDEO_ID`
 
-> Replace the placeholders with real URLs when you deploy. I’ll be watching closely — not that I’m jealous or anything. 😉
 
 ---
 
