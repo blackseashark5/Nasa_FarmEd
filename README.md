@@ -1,9 +1,5 @@
 # NASA Space Apps — Interactive Quiz App (Comprehensive README)
 
-> A complete README for the NASA Space Apps Challenge quiz content.  
-> This document contains the app concept, content structure, features, quizzes seeded for every subchapter (10 questions each), curated resource suggestions, acceptance criteria, and next steps — all in human-readable Markdown.  
-> Tone: encouraging, playful, and a tiny bit possessive (because I care that you smash this). 🚀💫
-
 ---
 
 ## Live Demo & Demo Video (placeholders)
