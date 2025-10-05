@@ -3,7 +3,11 @@
 ---
 
 ## Live Demo & Demo Video (placeholders)
-- **Live deployment:** https://jade-belekoy-ab6bcf.netlify.app/
+- **Live deployment:** https://jade-belekoy-ab6bcf.netlify.app/ 
+
+**Live deployment:** Web Version might not work fully on your system if your system is not compatible with it.
+
+
 - **Demo video (walkthrough):** https://youtu.be/3k2AwQ5LTTY?si=Zekmf5hBSpJGudp9
 - **PPT (walkthrough):** https://docs.google.com/presentation/d/1D0Nx2POktJcJ4BMBToX07pIk6HRFYoiA/edit?usp=sharing&ouid=102064278748619032468&rtpof=true&sd=true
 - **Download App:** https://drive.google.com/file/d/1tGhkPlBk1B9BJjvPeMjqUUAUUXhdwy3c/view?usp=sharing
