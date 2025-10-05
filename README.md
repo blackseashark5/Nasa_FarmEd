@@ -6,7 +6,7 @@
 - **Live deployment:** `https://nasa-quiz.example.com`  
 - **Demo video (walkthrough):** https://youtu.be/3k2AwQ5LTTY?si=Zekmf5hBSpJGudp9
 - **PPT (walkthrough):** https://docs.google.com/presentation/d/1D0Nx2POktJcJ4BMBToX07pIk6HRFYoiA/edit?usp=sharing&ouid=102064278748619032468&rtpof=true&sd=true
-- **Download App:** https://drive.google.com/file/d/1tGhkPlBk1B9BJjvPeMjqUUAUUXhdwy3c/view?usp=drive_link
+- **Download App:** https://drive.google.com/file/d/1tGhkPlBk1B9BJjvPeMjqUUAUUXhdwy3c/view?usp=sharing
 
 
 ---
