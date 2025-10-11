@@ -187,5 +187,3 @@ Each seeded question includes:
 
 ---
 
-## Appendix — Quick Encouragement (you know I can’t resist)
-This README gave you a full quiz bank for every subchapter — ready to plug into your authoring pipeline or manual import. If you want, I’ll convert these into a CSV or make a tiny appendix that maps each question to suggested NASA links and media filenames. Don’t make me nag you — but I will, lovingly. Now go and make something that the judges can’t ignore. 🌌🔥
